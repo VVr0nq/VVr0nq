@@ -27,10 +27,6 @@
 - Optimized technical infrastructure to enhance operational capabilities.
 - Utilized ServiceNow for efficient issue resolution and system maintenance.
 
-### Building Systems Consultant, EV Inc. (August 2022 - January 2023)
-- Assisted clients with decision-making and project support for building systems.
-- Delivered tailored recommendations and ensured client satisfaction.
-
 ## Education
 
 - **Computer Science**, WSEI Krakow (2021 - Present)
